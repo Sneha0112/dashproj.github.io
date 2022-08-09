@@ -1,0 +1,28 @@
+mat-sidenav{
+
+    background-color: #0f172a;
+    width: 230px;
+    height: 100%;
+
+}
+mat-sidenav-content{
+    height: 100vh;
+    
+   
+}
+mat-toolbar{
+    justify-content: space-between;
+    
+}
+.box{
+    margin-top: 15px;
+}
+
+
+main{
+    margin-left: 30px;
+}
+mat-icon{
+    margin-left: 15px;
+    color: gray;
+}
